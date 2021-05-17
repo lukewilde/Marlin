@@ -1,0 +1,3 @@
+[submodule "config-examples"]
+	path = config-examples
+	url = https://github.com/MarlinFirmware/Configurations.git
